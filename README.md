@@ -4,7 +4,7 @@
 Contact https://t.me/anon_cracker for any problem
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonCracker1/AnonCracker/)
 
 ### The Normal Way
 
